@@ -3,11 +3,11 @@ package br.com.fiftychallenge.challenge;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class Challenge2 {
+public class Challenge10 {
 
 	private static final Logger logger = LogManager.getLogger(Challenge1.class);
 	/**
-	 * Description: How do you find the duplicate number on a given integer array?
+	 * Description: How do you find the missing number in a given integer array of 1 to 100?
 	 */
 	
 	public void run() {
