@@ -7,7 +7,7 @@ public class Challenge10 {
 
 	private static final Logger logger = LogManager.getLogger(Challenge1.class);
 	/**
-	 * Description: How do you find the missing number in a given integer array of 1 to 100?
+	 * Description: How are duplicates removed from an array without using any library?
 	 */
 	
 	public void run() {
