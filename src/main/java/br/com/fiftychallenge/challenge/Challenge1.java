@@ -13,7 +13,6 @@ public class Challenge1 {
    */
 
   public void run() {
-    // TODO: code resolution
     logger.info("Challenge 1 - start");
   }
 
@@ -23,6 +22,7 @@ public class Challenge1 {
     
   }
 
+// You Can also use Arrays.sort(numbers);
   protected int[] sort(int[] numbers) {
     int aux = 0;
     for (int i = 0; i < numbers.length - 1; i++) {
